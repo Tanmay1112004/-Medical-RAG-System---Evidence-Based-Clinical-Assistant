@@ -1,8 +1,3 @@
-Here's the complete README file for your GitHub repository:
-
-## `README.md`
-
-```markdown
 # 🏥 Medical RAG System - Evidence-Based Clinical Assistant
 
 A production-ready **Retrieval-Augmented Generation (RAG)** system that provides accurate, source-backed medical answers by combining Google's Gemini AI with a vector database of verified medical documents.
