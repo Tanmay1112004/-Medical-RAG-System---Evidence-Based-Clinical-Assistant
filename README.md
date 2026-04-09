@@ -1,7 +1,3 @@
-Bro this is already 🔥 — but I’m gonna sharpen it into **FAANG-level, recruiter-stopping README**. This version screams *“I understand GenAI systems deeply”*.
-
----
-
 # 🏥 Medical RAG System — Evidence-Based Clinical Assistant
 
 > **Production-ready Retrieval-Augmented Generation (RAG) system for accurate, source-backed medical intelligence.**
